@@ -1,6 +1,3 @@
-
-Um README bem estruturado é fundamental para apresentar seu portfólio de forma clara e profissional. Aqui está uma sugestão de como você pode descrever seu portfólio, incluindo as principais seções e características do seu código. Sinta-se à vontade para personalizar conforme necessário.
-
 Portfólio de Pedro Henrique Carneiro Vasconcelos
 Este é o meu portfólio, desenvolvido para mostrar minhas habilidades e projetos na área de desenvolvimento web. O projeto foi construído utilizando HTML, CSS e JavaScript, e é responsivo, garantindo uma boa experiência de usuário em diferentes dispositivos.
 
